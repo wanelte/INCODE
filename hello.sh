@@ -1,0 +1,2 @@
+var="Witaj"
+echo $var
